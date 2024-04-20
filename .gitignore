@@ -13,3 +13,5 @@ puppeteer-*/
 
 # Environment variables
 .env
+
+*/data/flags/*
